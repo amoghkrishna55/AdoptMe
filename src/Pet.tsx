@@ -10,7 +10,7 @@ interface PetProps {
 const Pet = (props: PetProps) => {
   const { name, animal, breed, images, location, id } = props;
 
-  let hero = "http://pets-images.dev-apis.com/pets/none.jpg";
+  let hero = "https://pets-images.dev-apis.com/pets/none.jpg";
   if (images.length) {
     hero = images[0];
   }
