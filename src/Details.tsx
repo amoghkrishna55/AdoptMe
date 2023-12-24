@@ -4,7 +4,7 @@ import fetchPet from "./fetchPet";
 
 const Details = () => {
   const { id } = useParams();
-  const results = useQuery([id], fetchPet);
+  const results = useQuery(["details", id], fetchPet);
 
   if (results.isLoading) {
     return (
