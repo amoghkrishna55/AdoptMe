@@ -42,8 +42,6 @@ You can preview the website by clicking [here](https://amoghkrishna55.github.io/
 - Click the "Search" button to fetch and display pets matching the specified criteria.
 - Click on a pet card to view more details about the pet.
 - Use the provided contact information to inquire about adopting a pet.
-- Navigate through the application using the React Router.
-- Data fetching, caching, and state updates are handled by React Query.
 
 ## Contributing
 
