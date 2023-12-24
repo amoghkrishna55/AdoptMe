@@ -1,12 +1,14 @@
 # AdoptMe
 
-AdoptMe is a website built with React and Vite that allows users to find and adopt pets based on animal breed and location. It utilizes the Adopt Pets API to fetch and display available pets.
+AdoptMe is a website built with React and Vite that allows users to find and adopt pets based on animal breed and location. It utilizes the Adopt Pets API to fetch and display available pets. The application uses React Router for navigation and React Query for data fetching, caching, and state updates.
 
 ## Features
 
 - Search for pets by animal breed and location
 - View detailed information about each pet, including their name, age, breed, and description
 - Contact the pet owner for adoption inquiries
+- Navigate through the application using React Router
+- Data fetching, caching, and state updates are handled by React Query
 
 ## Live Preview
 
@@ -40,6 +42,8 @@ You can preview the website by clicking [here](https://amoghkrishna55.github.io/
 - Click the "Search" button to fetch and display pets matching the specified criteria.
 - Click on a pet card to view more details about the pet.
 - Use the provided contact information to inquire about adopting a pet.
+- Navigate through the application using the React Router.
+- Data fetching, caching, and state updates are handled by React Query.
 
 ## Contributing
 
@@ -54,4 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Adopt Pets API](https://pets-v2.dev-apis.com/) - The API used to fetch pet data.
 - [Vite](https://vitejs.dev/) - The build tool used to bundle the website.
 - [React](https://reactjs.org/) - The JavaScript library used to build the website.
+- [React Router](https://reactrouter.com/) - The library used for handling routing in the application.
+- [React Query](https://react-query.tanstack.com/) - The library used for fetching, caching, synchronizing and updating server state.
 - [GitHub Pages](https://pages.github.com/) - The hosting service used to deploy the website.
