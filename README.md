@@ -19,7 +19,7 @@ You can preview the website by clicking [here](https://amoghkrishna55.github.io/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/AdoptMe.git
+   git clone https://github.com/amoghkrishna55/AdoptMe.git
    ```
 
 2. Install dependencies:
